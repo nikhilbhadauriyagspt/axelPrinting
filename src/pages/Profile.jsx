@@ -9,6 +9,7 @@ import {
   Package, 
   LogOut, 
   ShieldCheck, 
+  ChevronRight,
   Eye, 
   EyeOff,
   Loader2,
